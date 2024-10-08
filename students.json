@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "student_id": "s12345",
+      "student_name": "Alice"
+    },
+    {
+      "student_id": "s67890",
+      "student_name": "Bob"
+    },
+    {
+      "student_id": "s54321",
+      "student_name": "Charlie"
+    }
+  ]
+}
