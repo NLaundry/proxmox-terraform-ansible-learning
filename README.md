@@ -17,9 +17,20 @@ Steps:
 	- [x] enable nested virtualization
 	- [x] download ISO
 	- [x] setup in gnome boxes
-	- [ ] basic config
-	- [ ] 
-	- [ ] 
+	- [x] basic config
+- [ ] Terraform
+    - [x] install 
+    - [x] configure with proxmox token
+    - [x] read json file of students 
+    - [x] provision 
+    - [ ] password reset on first login - #NotTested
+- [ ] create a VM template for cloning
+    - [ ] install ubuntu 24.04 LTS
+    - [ ] create an ansible playbook to manage the template
+    - [ ] create the VM
+    - [ ] use ansible playbook to configure the VM
+    - [ ] turn the VM into a template
+    - [ ] feed the template into Terraform
 
 ## Proxmox setup
 
